@@ -54,5 +54,5 @@ class  car{
 }
 let mycar=new car("abc",202);
 console.log(mycar.brand);
-//help
+//help me please
 
